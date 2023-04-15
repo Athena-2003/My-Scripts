@@ -1,1 +1,2 @@
 # My-Scripts
+The github.sh script is my first attempt at scripting. Even though I have written other scripts before, all were for testing. This is the first script i use to automate my github setup on linux machines. This is very rusimentary script. Only contains commands I would otherwise have to type myself. But as I learn bash scripting and other scripting methods, I will improve it as it goes. 
